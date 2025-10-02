@@ -2,7 +2,7 @@
 
 ---
  ### ‼️CogVideoX version/Any Video Model version CamTrol‼️
- We now have CamTrol code implemented on **[diffusers-based](https://github.com/huggingface/diffusers/tree/main)** video models. It makes it faster to revise the video model based on diffusers.
+ We now have CamTrol code implemented on **[diffusers-based](https://github.com/huggingface/diffusers/tree/main)** video models. It makes it faster to revise the code for the more powerful video models in diffusers.
  
  Some results of CogVideoX+CamTrol can be found on the CamTrol [page](https://lifedecoder.github.io/CamTrol/).
 
