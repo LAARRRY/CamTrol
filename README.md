@@ -1,5 +1,14 @@
 # CamTrol: Training-free Camera Control for Video Generation
 
+---
+ ### ‼️CogVideoX version/Any Video Model version CamTrol‼️
+ We now have CamTrol code implemented on **[diffusers-based](https://github.com/huggingface/diffusers/tree/main)** video models. It makes it faster to revise the video model based on diffusers.
+ 
+ Some results of CogVideoX+CamTrol can be found on the CamTrol [page](https://lifedecoder.github.io/CamTrol/).
+
+ The code : [https://github.com/LAARRRY/CamTrol-CogVideoX-Diffusers](https://github.com/LAARRRY/CamTrol-CogVideoX-Diffusers).
+
+---
 This repository is unofficial implementation of [CamTrol: Training-free Camera Control for Video Generation](https://lifedecoder.github.io/CamTrol/), based on SVD.
 
 Some videos generated through SVD:
